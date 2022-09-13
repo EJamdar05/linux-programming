@@ -31,3 +31,10 @@ To run the shell script, make sure it is executable then run either line
 ```
 bash my_script.sh
 ```
+
+## MIPS Programs
+* Assignment 5
+This MIPS program simply asks the user for a series of numbers and at the end, will display the max number inputted, the smallest, and the average of the inputted numbers. 
+
+* Final Project
+This MIPS program demonstrated the usage of a 10x10 matrix in assembly and is a menu driven program with preset values (1-100). The user has choices to display the array, print a row or column, multiply a specific row by a constant number, add the values of two rows, swap two rows, print a specific cell, swap two cells and exit the program. 
